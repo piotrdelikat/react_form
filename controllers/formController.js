@@ -27,3 +27,5 @@ var Form = mongoose.model('Form', formSchema);
     });
   });
 };
+
+module.exports = Form;

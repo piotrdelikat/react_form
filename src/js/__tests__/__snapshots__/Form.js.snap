@@ -62,7 +62,7 @@ exports[`form renders correctly 1`] = `
         Select the event date that suits you best:
       </label>
       <input
-        min="2018-02-23"
+        min="2018-02-26"
         name="date"
         onChange={[Function]}
         required={true}
