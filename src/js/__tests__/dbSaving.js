@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Form = require('../../../controllers/formController');
+const Form = require('../../../controllers/formSchema');
 
 describe('Saving records to the database', () => {
     let record;
