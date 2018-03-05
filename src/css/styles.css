@@ -17,6 +17,8 @@ form {
   flex-flow: column;
   width: 60%;
   margin-top: 50px;
+  margin-left: auto!important;
+  margin-right: auto!important;
 }
 
 input {
@@ -50,5 +52,12 @@ label {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 28px;
   margin-top: 100px;
+  text-align: center;
+}
+
+.error-message {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.4rem;
+  margin-top: 20px;
   text-align: center;
 }
